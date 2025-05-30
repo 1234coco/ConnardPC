@@ -1,0 +1,1140 @@
+2025-04-04 09:16:16,499 - INFO - Tên chàng béo đã tồn tại trên hệ thống
+2025-04-04 09:16:38,571 - INFO - Tên Mẹ Mày Ngon đã tồn tại trên hệ thống
+2025-04-04 09:17:17,302 - INFO - Tên Mẹ Mày Ngon đã tồn tại trên hệ thống
+2025-04-04 09:18:10,683 - INFO - Tên Mẹ Mày Ngon đã tồn tại trên hệ thống
+2025-04-04 09:18:18,609 - ERROR - Bị lỗi:a bytes-like object is required, not 'str'
+2025-04-04 09:18:21,896 - ERROR - Bị lỗi:a bytes-like object is required, not 'str'
+2025-04-04 09:19:04,404 - ERROR - Bị lỗi:a bytes-like object is required, not 'str'
+2025-04-04 09:19:05,857 - ERROR - Bị lỗi:a bytes-like object is required, not 'str'
+2025-04-04 09:19:35,056 - ERROR - Bị lỗi:a bytes-like object is required, not 'str'
+2025-04-04 09:20:46,177 - INFO - Đã tạo user Mẹ Mày Ngon
+2025-04-04 09:20:47,677 - INFO - Tên Mẹ Mày Ngon đã tồn tại trên hệ thống
+2025-04-04 09:21:29,672 - INFO - Tên Mẹ Mày Ngon đã tồn tại trên hệ thống
+2025-04-04 09:21:49,289 - ERROR - Bị lỗi:'NoneType' object has no attribute 'encode'
+2025-04-04 09:21:51,174 - ERROR - Bị lỗi:'NoneType' object has no attribute 'encode'
+2025-04-04 09:21:52,003 - ERROR - Bị lỗi:'NoneType' object has no attribute 'encode'
+2025-04-04 09:21:52,901 - ERROR - Bị lỗi:'NoneType' object has no attribute 'encode'
+2025-04-04 09:24:38,303 - INFO - Đã tạo user Chú béo
+2025-04-04 09:24:39,998 - INFO - Tên Chú béo đã tồn tại trên hệ thống
+2025-04-04 09:25:14,358 - INFO - Tên Chú béo đã tồn tại trên hệ thống
+2025-04-04 09:25:20,870 - INFO - Đã tạo user mmb
+2025-04-04 09:25:46,531 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:27:40,041 - INFO - Đã tạo user mmb
+2025-04-04 09:28:31,195 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:28:32,991 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:28:36,415 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:29:22,207 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:30:19,240 - INFO - Tên mmb đã tồn tại trên hệ thống
+2025-04-04 09:30:29,222 - INFO - Đã tạo user Has
+2025-04-04 09:31:11,544 - INFO - Tên Has đã tồn tại trên hệ thống
+2025-04-04 09:31:13,232 - INFO - Tên Has đã tồn tại trên hệ thống
+2025-04-04 09:31:26,839 - INFO - Tên Has đã tồn tại trên hệ thống
+2025-04-04 09:31:32,309 - INFO - Đã tạo user Hass
+2025-04-04 09:31:45,152 - INFO - Đã tạo user Hassư
+2025-04-04 09:31:48,417 - INFO - Tên Hassư đã tồn tại trên hệ thống
+2025-04-04 09:31:54,824 - INFO - Đã tạo user Hasêrerer
+2025-04-04 09:32:35,919 - INFO - Tên Hasêrerer đã tồn tại trên hệ thống
+2025-04-04 09:32:40,364 - INFO - Đã tạo user Hasêreyytytrer
+2025-04-04 09:33:15,567 - INFO - Tên Hasêreyytytrer đã tồn tại trên hệ thống
+2025-04-04 09:33:19,018 - INFO - Đã tạo user Hasêreyytrtrttytrer
+2025-04-04 09:33:38,399 - INFO - Đã tạo user Hasêreyytrtrttytrejhjhjr
+2025-04-04 09:34:17,741 - INFO - Tên Hasêreyytrtrttytrejhjhjr đã tồn tại trên hệ thống
+2025-04-04 09:34:21,640 - INFO - Đã tạo user Hatytytysêreyytrtrttytrejhjhjr
+2025-04-04 09:34:56,749 - INFO - Tên Hatytytysêreyytrtrttytrejhjhjr đã tồn tại trên hệ thống
+2025-04-04 09:35:01,898 - INFO - Đã tạo user fdfdfdfdf
+2025-04-04 09:35:30,243 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 09:35:40,331 - INFO - Đã tạo user fdfdfdththfdf
+2025-04-04 09:36:20,731 - INFO - Đã tạo user fdfdfrtrtdththfdf
+2025-04-04 09:36:43,830 - INFO - Đã tạo user fdfdfrtrtdfdfdfdththfdf
+2025-04-04 09:50:04,931 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16132 and this is thread id 11232.
+2025-04-04 09:50:21,836 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16132 and this is thread id 11232.
+2025-04-04 10:10:28,394 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16156 and this is thread id 3804.
+2025-04-04 10:11:15,534 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19140 and this is thread id 17516.
+2025-04-04 10:11:17,079 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19140 and this is thread id 17516.
+2025-04-04 10:12:04,245 - ERROR - Địt m bị lỗi r:SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12508 and this is thread id 17856.
+2025-04-04 10:12:38,699 - ERROR - Địt m bị lỗi r:near "EXISTS": syntax error
+2025-04-04 10:13:00,426 - ERROR - Địt m bị lỗi r:no such column: PASSWORD
+2025-04-04 10:13:32,178 - ERROR - Địt m bị lỗi r:no such column: PASSWORD
+2025-04-04 10:13:47,235 - ERROR - Địt m bị lỗi r:no such column: PASSWORD
+2025-04-04 10:20:13,839 - ERROR - Địt m bị lỗi r:no such column: PASSWORD
+2025-04-04 10:20:14,975 - ERROR - Địt m bị lỗi r:no such column: PASSWORD
+2025-04-04 10:21:18,632 - ERROR - Địt m bị lỗi r:no such column: ID
+2025-04-04 10:21:49,125 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 18:07:37,651 - INFO - Đã tạo setup mới
+2025-04-04 18:07:37,656 - ERROR - Bị lỗi:table USERS has 5 columns but 4 values were supplied
+2025-04-04 19:55:03,663 - INFO - Đã tạo setup mới
+2025-04-04 19:55:03,683 - INFO - Đã tạo user Mẹ Mày Béo
+2025-04-04 19:59:38,767 - INFO - Đã tạo setup mới
+2025-04-04 19:59:38,781 - INFO - Đã tạo user Mẹ Mày Béo
+2025-04-04 20:09:35,204 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 20:09:46,153 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 20:10:34,219 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 20:10:34,224 - INFO - Đã thêm thành công game:Minecraft,['TL.exe'],['%AppData%\\.tlauncher', '%AppData%\\.minecraft'],Game khối vuông
+2025-04-04 20:11:16,031 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 20:11:16,046 - INFO - Đã thêm thành công game:Minecraft,['TL.exe'],['%AppData%\\.tlauncher', '%AppData%\\.minecraft'],Game khối vuông
+2025-04-04 20:13:04,254 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 20:13:04,255 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-04 21:14:39,519 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 21:14:39,521 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-04 21:16:53,028 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống
+2025-04-04 21:16:53,029 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-05 20:49:22,536 - ERROR - Lỗi :the JSON object must be str, bytes or bytearray, not tuple
+2025-04-05 20:50:01,069 - ERROR - Lỗi :the JSON object must be str, bytes or bytearray, not tuple
+2025-04-05 20:51:24,178 - ERROR - Lỗi :the JSON object must be str, bytes or bytearray, not tuple
+2025-04-06 13:14:37,110 - INFO - Đã cập nhật config thành công!
+2025-04-06 13:14:58,198 - INFO - Đã cập nhật config thành công!
+2025-04-06 13:15:23,430 - INFO - Đã cập nhật config thành công!
+2025-04-06 13:32:30,732 - INFO - Đã cập nhật config thành công!
+2025-04-06 13:53:55,895 - INFO - Đã cập nhật config thành công!
+2025-04-06 14:50:39,934 - INFO - Đã cập nhật config thành công!
+2025-04-08 10:37:46,235 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-08 18:54:41,452 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-08 19:30:17,814 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:30:20,106 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:30:21,522 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:30:31,023 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:09,229 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:11,335 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:15,669 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:17,941 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:48,060 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:49,061 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:49,760 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:34:50,808 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:01,603 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:03,627 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:05,050 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:06,510 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:08,359 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:09,681 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:10,892 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:12,421 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:12,771 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:12,853 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:12,955 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:13,272 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:13,491 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:13,816 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:13,999 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:14,264 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:14,897 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:15,162 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:15,450 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:15,615 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:15,814 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:15,998 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:16,213 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:16,482 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:16,765 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:16,983 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:17,273 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:17,475 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:17,644 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:17,895 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:21,353 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:21,585 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:21,751 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:21,988 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:22,209 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:22,350 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:22,500 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:22,787 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:23,130 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:23,402 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:23,661 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:24,066 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:27,352 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:28,023 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:28,259 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:28,719 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:28,892 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:29,352 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:29,743 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:30,119 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:32,563 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:33,017 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:33,300 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:33,658 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:34,015 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:34,164 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:34,537 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:35,291 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:36,824 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:37,274 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:37,736 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:38,085 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:38,354 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:38,841 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:39,129 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:39,591 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:40,119 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:40,500 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:41,105 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:41,390 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:41,740 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:42,246 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:44,959 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:45,329 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:45,663 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:45,958 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:35:46,392 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:11,283 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:11,833 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:13,046 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:13,932 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:23,868 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:24,242 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:26,871 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:28,354 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:29,331 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:30,292 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:31,332 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:32,519 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:33,018 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:33,776 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:35,238 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:36,591 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:37,187 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:39,266 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:38:42,490 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:50,082 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:50,368 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:50,967 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:51,958 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:52,383 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:52,688 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:53,046 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:53,626 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:39:53,951 - INFO - Đã cập nhật config thành công!
+2025-04-08 19:47:12,934 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:04:12,602 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:04:20,192 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:04:30,318 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:04:47,283 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:04:51,940 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:09:26,534 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:38:44,622 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:43:28,794 - INFO - Đã cập nhật config thành công!
+2025-04-08 20:59:49,371 - INFO - Đã cập nhật config thành công!
+2025-04-08 21:21:42,177 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:02:44,571 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:22:21,228 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:38:07,740 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:39:04,773 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:45:53,740 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:47:48,085 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:48:36,525 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:55:33,981 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:55:36,371 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:56:30,908 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:58:16,178 - INFO - Đã cập nhật config thành công!
+2025-04-09 08:58:44,896 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:00:01,949 - INFO - 1
+2025-04-09 09:00:02,190 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:33:23,473 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-09 09:36:32,934 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:06,093 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:06,984 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:09,488 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:09,852 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:10,661 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:11,261 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:11,714 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:12,207 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:14,386 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:14,883 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:15,231 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:15,531 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:15,864 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:16,116 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:16,445 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:16,747 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:17,002 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:17,193 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:19,295 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:21,584 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:23,958 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:26,559 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:27,681 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:53:28,276 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:58:06,136 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:58:16,809 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:58:53,526 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:58:54,242 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:59:41,893 - INFO - Đã cập nhật config thành công!
+2025-04-09 09:59:45,207 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:01:36,515 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:01:46,110 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:02:28,136 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:02:35,667 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:02:54,146 - INFO - Đã cập nhật config thành công!
+2025-04-09 10:02:55,867 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:08:55,279 - INFO - 1
+2025-04-09 20:08:55,282 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:09:36,209 - INFO - 1
+2025-04-09 20:09:36,222 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:09:37,650 - INFO - 1
+2025-04-09 20:09:37,659 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:11:11,246 - INFO - 1
+2025-04-09 20:11:11,254 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:11:46,261 - INFO - 1
+2025-04-09 20:11:46,272 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:12:22,643 - INFO - 1
+2025-04-09 20:12:22,659 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:12:34,587 - INFO - 1
+2025-04-09 20:12:34,601 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:17:10,758 - INFO - 1
+2025-04-09 20:17:10,769 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:27:13,802 - INFO - 1
+2025-04-09 20:27:13,813 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:46:55,053 - INFO - 1
+2025-04-09 20:46:55,064 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:48:37,856 - INFO - 1
+2025-04-09 20:48:37,930 - INFO - Đã cập nhật config thành công!
+2025-04-09 20:53:00,126 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:02:04,815 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:02:07,934 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:02:16,796 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:02:23,143 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:02:26,305 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:05:27,223 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:05:27,492 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:48,823 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-09 21:12:54,100 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:54,959 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:55,513 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:55,943 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:56,340 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:58,532 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:59,030 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:59,450 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:12:59,827 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:13:00,235 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:13:00,516 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:13:00,894 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:13:01,268 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:13:01,782 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:15:44,563 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:16:10,766 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:20:05,382 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:20:28,122 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:21:03,152 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:21:51,638 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:23:26,624 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:23:56,547 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:23:58,439 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:24:57,089 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:24:59,782 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:25:57,103 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,130 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,225 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,365 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,476 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,606 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,743 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,859 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:15,990 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:16,121 - INFO - Đã cập nhật config thành công!
+2025-04-09 21:30:16,690 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:23:57,377 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:23:57,901 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:24:25,151 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:26:31,742 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:26:33,501 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:27:13,467 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:27:14,091 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:28:36,009 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:28:36,394 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:29:40,866 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:29:41,436 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:41:46,098 - INFO - Đã cập nhật config thành công!
+2025-04-09 22:41:46,538 - INFO - Đã cập nhật config thành công!
+2025-04-10 23:03:41,263 - INFO - Đã cập nhật config thành công!
+2025-04-10 23:37:54,690 - INFO - Đã cập nhật config thành công!
+2025-04-10 23:37:55,748 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:34:59,678 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:35:01,480 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:38:17,802 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:43:25,332 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:49:02,794 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:50:34,130 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:52:49,312 - INFO - Đã cập nhật config thành công!
+2025-04-11 09:57:15,105 - INFO - Đã cập nhật config thành công!
+2025-04-11 10:01:46,194 - INFO - Đã cập nhật config thành công!
+2025-04-11 10:12:30,467 - INFO - Đã cập nhật config thành công!
+2025-04-11 10:19:14,433 - INFO - Đã cập nhật config thành công!
+2025-04-11 10:24:45,303 - INFO - Đã cập nhật config thành công!
+2025-04-11 10:24:45,987 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:29:07,881 - INFO - 1
+2025-04-11 19:29:09,165 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:36:19,219 - INFO - 1
+2025-04-11 19:36:19,233 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:36:59,931 - INFO - 1
+2025-04-11 19:37:00,540 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:37:31,874 - INFO - 1
+2025-04-11 19:37:32,037 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:38:13,683 - INFO - 1
+2025-04-11 19:38:14,564 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:56:59,982 - INFO - 1
+2025-04-11 19:57:00,181 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:58:21,349 - INFO - 1
+2025-04-11 19:58:21,495 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:59:08,867 - INFO - 1
+2025-04-11 19:59:09,900 - INFO - Đã cập nhật config thành công!
+2025-04-11 19:59:17,959 - INFO - 1
+2025-04-11 19:59:18,035 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:00:09,631 - INFO - 1
+2025-04-11 20:00:09,694 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:00:27,569 - INFO - 1
+2025-04-11 20:00:27,586 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:01:50,827 - INFO - 1
+2025-04-11 20:01:50,950 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:08:52,894 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:09:05,543 - INFO - 1
+2025-04-11 20:09:05,677 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:20:59,762 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:25:36,123 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:25:40,278 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:26:45,733 - INFO - 1
+2025-04-11 20:26:48,001 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:27:07,141 - INFO - 1
+2025-04-11 20:27:07,580 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:34:36,030 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:35:20,972 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:35:35,548 - INFO - 1
+2025-04-11 20:35:35,567 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:35:54,706 - INFO - 1
+2025-04-11 20:35:54,716 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:36:07,298 - INFO - 1
+2025-04-11 20:36:07,885 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:37:26,205 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:43:43,957 - INFO - 1
+2025-04-11 20:43:44,139 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:43:49,905 - INFO - 1
+2025-04-11 20:43:50,504 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:53:53,308 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:54:08,325 - INFO - Đã cập nhật config thành công!
+2025-04-11 20:55:48,030 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:04:30,237 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:04:31,134 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:05:19,558 - INFO - 1
+2025-04-11 21:05:19,872 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:05:52,073 - INFO - 1
+2025-04-11 21:05:52,949 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:09:26,213 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:10:34,666 - INFO - 1
+2025-04-11 21:10:34,843 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:10:50,670 - INFO - 1
+2025-04-11 21:10:50,754 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:10:55,646 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:14:28,176 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:15:06,016 - INFO - 1
+2025-04-11 21:15:07,899 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:15:30,664 - INFO - 1
+2025-04-11 21:15:32,051 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:15:44,583 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:16:11,849 - INFO - 1
+2025-04-11 21:16:11,859 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:16:31,073 - INFO - 1
+2025-04-11 21:16:32,245 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:16:37,982 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:49:50,882 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:52:57,583 - INFO - 1
+2025-04-11 21:52:57,599 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:53:14,651 - INFO - 1
+2025-04-11 21:53:14,667 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:53:25,339 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:53:26,472 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:53:33,536 - INFO - 1
+2025-04-11 21:53:33,558 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:53:46,767 - INFO - 1
+2025-04-11 21:53:47,328 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:54:50,954 - INFO - 1
+2025-04-11 21:54:51,372 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:55:09,906 - INFO - 1
+2025-04-11 21:55:10,093 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:55:57,254 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:56:09,474 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:56:12,038 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:56:49,486 - INFO - 1
+2025-04-11 21:56:49,496 - INFO - Đã cập nhật config thành công!
+2025-04-11 21:56:55,907 - INFO - 1
+2025-04-11 21:56:56,355 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:02:09,046 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:04:16,922 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:04:34,355 - INFO - 1
+2025-04-11 22:04:34,376 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:04:40,964 - INFO - 1
+2025-04-11 22:04:40,992 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:03,342 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:06,413 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:06,669 - INFO - 1
+2025-04-11 22:06:06,776 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:18,939 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:31,821 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:38,362 - INFO - 1
+2025-04-11 22:06:38,394 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:42,065 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:50,078 - INFO - 1
+2025-04-11 22:06:50,286 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:06:56,454 - INFO - 1
+2025-04-11 22:06:56,463 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:07:01,428 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:07:15,766 - INFO - 1
+2025-04-11 22:07:16,640 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:07:22,599 - INFO - 1
+2025-04-11 22:07:23,587 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:15,435 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:17,693 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:36,327 - INFO - 1
+2025-04-11 22:16:36,699 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:42,628 - INFO - 1
+2025-04-11 22:16:42,647 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:47,096 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:16:59,237 - INFO - 1
+2025-04-11 22:16:59,249 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:17:04,701 - INFO - 1
+2025-04-11 22:17:04,879 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:17:14,164 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:17:30,478 - INFO - 1
+2025-04-11 22:17:31,252 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:17:36,649 - INFO - 1
+2025-04-11 22:17:36,765 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:17:58,437 - INFO - 1
+2025-04-11 22:17:58,503 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:18:03,623 - INFO - 1
+2025-04-11 22:18:05,394 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:19:53,794 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:20:10,839 - INFO - 1
+2025-04-11 22:20:10,979 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:20:16,108 - INFO - 1
+2025-04-11 22:20:16,520 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:20:26,107 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:22:19,878 - INFO - 1
+2025-04-11 22:22:20,027 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:22:25,163 - INFO - 1
+2025-04-11 22:22:25,248 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:28:25,566 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:33:21,585 - INFO - 1
+2025-04-11 22:33:21,610 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:33:27,600 - INFO - 1
+2025-04-11 22:33:27,642 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:33:41,616 - INFO - Đã cập nhật config thành công!
+2025-04-11 22:33:50,800 - INFO - 1
+2025-04-11 22:33:50,962 - INFO - Đã cập nhật config thành công!
+2025-04-12 22:14:59,516 - INFO - Đã tạo user NgoLong
+2025-04-12 22:14:59,597 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-13 07:40:10,664 - INFO - 1
+2025-04-13 07:40:10,675 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:51:45,441 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:53:10,342 - INFO - 1
+2025-04-13 07:53:10,363 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:53:24,688 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:54:29,655 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:54:31,264 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:56:16,467 - INFO - 1
+2025-04-13 07:56:16,478 - INFO - Đã cập nhật config thành công!
+2025-04-13 07:56:44,225 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:00:54,331 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:01:06,172 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:01:09,323 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:23,423 - INFO - 1
+2025-04-13 08:06:23,435 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:28,532 - INFO - 1
+2025-04-13 08:06:28,541 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:28,773 - INFO - 1
+2025-04-13 08:06:28,777 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:37,537 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:45,770 - INFO - 1
+2025-04-13 08:06:45,897 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:06:51,444 - INFO - 1
+2025-04-13 08:06:51,451 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:10:46,901 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:10:55,027 - INFO - 1
+2025-04-13 08:10:55,037 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:11:05,299 - INFO - 1
+2025-04-13 08:11:05,308 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:11:05,384 - INFO - 1
+2025-04-13 08:11:05,386 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:11:05,403 - INFO - 1
+2025-04-13 08:11:05,405 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:11:14,145 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:11:20,792 - INFO - 1
+2025-04-13 08:11:20,802 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:14:35,522 - INFO - 1
+2025-04-13 08:14:35,540 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:14:41,738 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:15:01,188 - INFO - 1
+2025-04-13 08:15:01,341 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:15:16,855 - INFO - 1
+2025-04-13 08:15:16,871 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:19:18,683 - INFO - 1
+2025-04-13 08:19:18,705 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:19:18,712 - INFO - 1
+2025-04-13 08:19:18,713 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:19:35,047 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:19:41,354 - INFO - 1
+2025-04-13 08:19:41,366 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:19:46,625 - INFO - 1
+2025-04-13 08:19:46,672 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:22:01,477 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:22:31,667 - INFO - 1
+2025-04-13 08:22:31,677 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:22:36,904 - INFO - 1
+2025-04-13 08:22:36,949 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:22:47,436 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:22:49,320 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:23:23,419 - INFO - 1
+2025-04-13 08:23:23,429 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:28:37,778 - INFO - 1
+2025-04-13 08:28:37,991 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:28:43,854 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:29:09,145 - INFO - 1
+2025-04-13 08:29:10,407 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:29:36,055 - INFO - 1
+2025-04-13 08:29:36,062 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:29:42,734 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:29:56,019 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:30:12,206 - INFO - 1
+2025-04-13 08:30:12,244 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:30:37,878 - INFO - 1
+2025-04-13 08:30:37,885 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:31:03,459 - INFO - 1
+2025-04-13 08:31:03,466 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:33:16,279 - INFO - 1
+2025-04-13 08:33:16,287 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:02,294 - INFO - 1
+2025-04-13 08:43:02,310 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:17,031 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:33,715 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:38,098 - INFO - 1
+2025-04-13 08:43:38,106 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:48,352 - INFO - 1
+2025-04-13 08:43:48,358 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:48,400 - INFO - 1
+2025-04-13 08:43:48,400 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:43:51,996 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:55:44,973 - INFO - Tên NgoLong đã tồn tại trên hệ thống
+2025-04-13 08:55:44,974 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-13 08:56:24,586 - INFO - Tên NgoLong đã tồn tại trên hệ thống
+2025-04-13 08:56:24,587 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-13 08:57:29,709 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:57:36,826 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:57:42,528 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:07,349 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:24,672 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:27,328 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:27,333 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:27,390 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:29,763 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:29,877 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:29,955 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:32,807 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:32,822 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:32,913 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:35,717 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:35,724 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:35,839 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:38,507 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:38,514 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:38,540 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:41,323 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:41,326 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:41,381 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:43,792 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:43,802 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:43,865 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:45,742 - INFO - Đã tạo user NgoLong
+2025-04-13 08:58:45,743 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-13 08:58:47,226 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:47,231 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:47,289 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:49,690 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:49,693 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:49,762 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:52,230 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:52,234 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:52,288 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:54,680 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:54,684 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:54,737 - ERROR - Lỗi :'NoneType' object is not subscriptable
+2025-04-13 08:58:57,111 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:58:57,300 - INFO - 1
+2025-04-13 08:58:57,327 - INFO - Đã cập nhật config thành công!
+2025-04-13 08:58:57,776 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 08:59:26,348 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:03:41,799 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 09:04:38,598 - INFO - 1
+2025-04-13 09:04:38,608 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:05:09,645 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:05:16,428 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:05:19,320 - INFO - 1
+2025-04-13 09:05:19,329 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:05:24,417 - INFO - 1
+2025-04-13 09:05:24,425 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:07:07,459 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-13 09:07:15,515 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:07:23,470 - INFO - 1
+2025-04-13 09:07:23,490 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:07:28,641 - INFO - 1
+2025-04-13 09:07:28,659 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:08:55,658 - INFO - 1
+2025-04-13 09:08:55,667 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:14:19,035 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:14:36,442 - INFO - 1
+2025-04-13 09:14:36,461 - INFO - Đã cập nhật config thành công!
+2025-04-13 09:16:43,181 - INFO - Đã cập nhật config thành công!
+2025-04-20 11:25:57,282 - ERROR - Địt m bị lỗi r:'NoneType' object is not subscriptable
+2025-04-20 11:26:28,873 - INFO - Tên NgoLong đã tồn tại trên hệ thống
+2025-04-20 11:26:28,878 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:15:48,019 - ERROR - Bị lỗi:table USERS has 5 columns but 6 values were supplied
+2025-04-20 12:15:48,025 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:16:20,262 - INFO - Đã tạo user NgoLong
+2025-04-20 12:16:20,263 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:36:09,376 - INFO - Đã tạo user NgoLong
+2025-04-20 12:36:09,378 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:37:35,796 - INFO - Đã tạo user NgoLong
+2025-04-20 12:37:35,798 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:41:11,096 - INFO - Đã tạo user NgoLong
+2025-04-20 12:41:11,098 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 12:46:47,321 - INFO - Tên NgoLong đã tồn tại trên hệ thống
+2025-04-20 12:46:47,324 - INFO - Game Minecraft đã tồn tại trong hệ thống.
+2025-04-20 19:52:49,565 - INFO - Đã cập nhật config thành công!
+2025-04-20 19:53:35,500 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:00:03,134 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:16:33,996 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:18:05,782 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:18:07,084 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:36:25,652 - INFO - Đã cập nhật config thành công!
+2025-04-20 20:36:27,245 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:10:56,949 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:11:21,073 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:28:57,614 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:28:59,500 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:29:00,689 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:29:10,955 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:29:39,864 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:29:40,854 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:29:46,759 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:31:38,157 - INFO - Đã cập nhật config thành công!
+2025-04-20 21:31:39,214 - INFO - Đã cập nhật config thành công!
+2025-04-21 08:53:46,255 - INFO - Đã cập nhật config thành công!
+2025-04-21 08:57:04,056 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<RequestResponseCycle.run_asgi() running at c:\Users\long96\Documents\BlockGame\.venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py:403> cb=[set.discard()]>
+2025-04-21 09:04:02,144 - ERROR - Lỗi changeConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 09:07:14,577 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:08:45,678 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:08:47,205 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:08:47,665 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:09:16,616 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:09:33,207 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:10:15,022 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:10:23,066 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:11:23,121 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:11:28,949 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:11:29,478 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:12:15,102 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:12:31,429 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:12:48,424 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:13:34,762 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:18:51,621 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:19:25,175 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:21:06,362 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:27:23,831 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:27:38,983 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:27:45,771 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:27:53,585 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:00,908 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:08,009 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:16,543 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:22,338 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:30,801 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:36,520 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:42,337 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:48,110 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:54,113 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:28:59,855 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:05,651 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:11,313 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:16,956 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:22,435 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:28,307 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:33,780 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:39,409 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:45,059 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:50,828 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:29:56,291 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:30:02,155 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:30:05,816 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:30:37,535 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:30:51,148 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:41:59,065 - INFO - Đã cập nhật config thành công!
+2025-04-21 09:42:01,125 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:04:25,736 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:04:39,935 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:04:51,925 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:05:03,378 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:05:20,075 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:05:33,855 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:05:47,131 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:06:03,169 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:06:16,158 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:06:28,691 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:06:35,490 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:06:42,083 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:07:07,130 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:07:13,686 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:27:02,314 - INFO - Đã cập nhật config thành công!
+2025-04-21 10:39:59,250 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:03,510 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:07,733 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:11,769 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:15,840 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:19,911 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:24,081 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:28,130 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:32,196 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:36,257 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:40,307 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:44,348 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:48,370 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:52,666 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:40:56,734 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:00,800 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:04,942 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:09,042 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:13,137 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:17,183 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:21,237 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:25,283 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:29,336 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:33,447 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:37,475 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:41,547 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:45,573 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:49,701 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:53,751 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:41:57,793 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:01,830 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:05,969 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:10,140 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:14,191 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:18,249 - ERROR - Lỗi getConfig: the JSON object must be str, bytes or bytearray, not tuple
+2025-04-21 10:42:37,085 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:42:41,132 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:42:45,243 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:42:49,372 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:42:53,466 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:42:57,524 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:43:01,585 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:43:05,651 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:43:09,692 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 10:43:14,366 - ERROR - Lỗi getConfig: Error binding parameter 0 - probably unsupported type.
+2025-04-21 16:57:36,314 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:57:37,009 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:57:37,468 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:58:27,478 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:59:07,722 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:59:10,166 - INFO - Đã cập nhật config thành công!
+2025-04-21 16:59:12,465 - INFO - Đã cập nhật config thành công!
+2025-04-21 17:01:55,836 - INFO - Đã cập nhật config thành công!
+2025-04-21 17:01:56,821 - INFO - Đã cập nhật config thành công!
+2025-04-21 17:01:57,848 - INFO - Đã cập nhật config thành công!
+2025-04-21 17:05:53,770 - INFO - Đã cập nhật config thành công!
+2025-04-22 20:01:32,854 - INFO - Đã cập nhật config thành công!
+2025-04-22 20:05:46,560 - INFO - Đã cập nhật config thành công!
+2025-04-22 20:40:08,418 - INFO - Đã cập nhật config thành công!
+2025-04-22 21:31:23,338 - INFO - Đã cập nhật config thành công!
+2025-04-22 22:19:12,992 - INFO - Đã cập nhật config thành công!
+2025-04-22 22:22:45,760 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:44:22,320 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:44:28,235 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:44:34,326 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:44:52,658 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:01,210 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:12,817 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:24,800 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:36,807 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:48,134 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:45:59,138 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:46:10,156 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:46:21,298 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:46:32,462 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:46:37,992 - INFO - Đã cập nhật config thành công!
+2025-04-23 09:46:43,548 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:06:01,123 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:12:27,190 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:12:56,698 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:19:15,427 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:27:37,797 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:39:12,677 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:39:50,290 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:40:58,823 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:41:19,992 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:41:36,940 - INFO - Đã cập nhật config thành công!
+2025-04-26 13:42:06,535 - INFO - Đã cập nhật config thành công!
+2025-04-26 15:42:12,323 - INFO - Đã cập nhật config thành công!
+2025-04-26 15:42:26,360 - INFO - Đã cập nhật config thành công!
+2025-04-26 15:42:45,656 - INFO - Đã cập nhật config thành công!
+2025-04-26 15:49:07,994 - INFO - Đã cập nhật config thành công!
+2025-04-26 18:26:04,047 - INFO - Đã cập nhật config thành công!
+2025-04-26 18:26:06,280 - INFO - Đã cập nhật config thành công!
+2025-04-26 18:54:02,685 - INFO - Đã cập nhật config thành công!
+2025-04-26 19:05:58,666 - INFO - Đã cập nhật config thành công!
+2025-04-26 19:06:56,126 - INFO - Đã cập nhật config thành công!
+2025-04-26 19:08:01,642 - INFO - Đã cập nhật config thành công!
+2025-04-26 19:10:47,957 - INFO - Đã cập nhật config thành công!
+2025-04-26 20:35:35,284 - INFO - Đã cập nhật config thành công!
+2025-04-26 20:35:56,727 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:02,534 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:04,915 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:07,137 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:13,266 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:22,308 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:28,159 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:33,781 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:39,378 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:45,310 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:50,957 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:12:56,687 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:02,287 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:08,267 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:13,870 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:19,534 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:25,274 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:31,216 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:36,839 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:42,834 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:48,812 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:13:56,883 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:02,825 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:08,966 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:14,787 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:20,350 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:26,272 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:31,994 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:37,606 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:41,119 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:43,201 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:48,811 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:14:55,960 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:01,541 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:07,681 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:13,288 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:18,879 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:24,799 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:30,463 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:36,174 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:42,088 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:47,807 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:54,138 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:15:59,724 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:05,331 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:11,139 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:16,999 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:22,782 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:28,334 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:33,909 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:39,713 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:45,501 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:51,082 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:16:56,721 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:02,406 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:07,958 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:13,536 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:19,126 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:25,017 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:30,689 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:36,234 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:41,815 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:47,489 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:17:53,153 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:18:04,823 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:18:19,743 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:19:00,241 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:21:29,202 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:21:50,417 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:22:31,613 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:22:53,477 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:23:05,870 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:23:21,738 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:26:07,197 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:27:51,475 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:29:24,257 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<BaseSelectorEventLoop._accept_connection2() done, defined at C:\Users\long96\AppData\Local\Programs\Python\Python310\lib\asyncio\selector_events.py:193> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-04-26 21:34:12,478 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:41:13,404 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:41:58,724 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:44:28,568 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:46:25,309 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:46:29,322 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:48:25,542 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:48:46,788 - INFO - Đã cập nhật config thành công!
+2025-04-26 21:49:15,984 - INFO - Đã cập nhật config thành công!
+2025-04-26 22:07:16,603 - INFO - Đã cập nhật config thành công!
+2025-04-26 23:26:41,891 - INFO - Đã cập nhật config thành công!
+2025-04-26 23:26:47,548 - INFO - Đã cập nhật config thành công!
+2025-04-26 23:27:03,114 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:11:27,123 - INFO - Đã tạo user TestAccount
+2025-04-27 09:15:34,470 - ERROR - Lỗi getConfig: Recursive use of cursors not allowed.
+2025-04-27 09:33:32,457 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:33:47,574 - ERROR - Lỗi getConfig: Recursive use of cursors not allowed.
+2025-04-27 09:33:48,781 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:34:45,744 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:35:19,576 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:35:43,865 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:36:14,927 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:36:16,822 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:36:34,905 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:36:53,465 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:37:16,306 - INFO - Đã cập nhật config thành công!
+2025-04-27 09:37:23,008 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:31:51,325 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:32:00,963 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:32:21,850 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:33:02,323 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:33:16,734 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:33:42,405 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:34:03,878 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:34:21,417 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:34:29,010 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:34:47,395 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:34:57,128 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:35:11,912 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:35:29,593 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:35:31,244 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:35:40,785 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:35:46,663 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:39:43,067 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:40:12,600 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:40:18,885 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:40:56,497 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:41:02,297 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:43:50,411 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:43:51,662 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:43:53,016 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:44:29,813 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:44:38,683 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:45:02,072 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:45:28,658 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:46:10,545 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:47:03,943 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:47:39,088 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:47:50,551 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:48:17,435 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:49:04,234 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:49:12,845 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:50:23,728 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:50:27,224 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:50:51,613 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:51:01,350 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:51:09,262 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:51:21,312 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:51:33,975 - INFO - Đã cập nhật config thành công!
+2025-04-27 17:51:43,671 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:16:44,419 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:17:12,496 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:17:22,338 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:17:45,541 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:48:16,002 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:49:18,848 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:49:29,638 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:50:05,049 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:51:04,309 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:51:25,250 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:52:21,992 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:52:28,331 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:53:12,830 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:53:32,905 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:53:48,753 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:06,582 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:12,731 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:14,210 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:24,627 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:31,562 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:54:44,196 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:55:00,948 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:55:26,778 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:55:33,921 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:55:53,673 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:56:04,340 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:56:14,458 - INFO - Đã cập nhật config thành công!
+2025-04-27 19:56:20,159 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:03:05,912 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:03:19,095 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:06:42,151 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:07:52,318 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:08:05,497 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:08:35,560 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:09:49,219 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:10:08,149 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:10:28,164 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:10:58,705 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:11:23,302 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:11:40,089 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:11:52,789 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:12:04,864 - INFO - Đã cập nhật config thành công!
+2025-04-27 20:12:10,716 - INFO - Đã cập nhật config thành công!
+2025-04-28 19:07:50,346 - INFO - Đã cập nhật config thành công!
+2025-04-28 19:07:55,549 - INFO - Đã cập nhật config thành công!
+2025-05-01 13:37:22,712 - ERROR - Error on reading from the event loop self pipe
+loop: <ProactorEventLoop running=True closed=False debug=False>
+Traceback (most recent call last):
+  File "C:\Users\long96\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 775, in _loop_self_reading
+    f.result()  # may raise
+  File "C:\Users\long96\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 826, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\long96\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 471, in finish_recv
+    return ov.getresult()
+ConnectionAbortedError: [WinError 1236] The network connection was aborted by the local system
+2025-05-08 21:13:47,676 - INFO - Đã cập nhật config thành công!
+2025-05-09 10:52:31,248 - INFO - Đã cập nhật config thành công!
+2025-05-11 07:55:44,028 - INFO - Đã cập nhật config thành công!
+2025-05-11 07:55:53,035 - INFO - Đã cập nhật config thành công!
+2025-05-11 07:56:09,807 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:22:30,818 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:33:36,640 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:34:15,141 - ERROR - Lỗi getConfig: Recursive use of cursors not allowed.
+2025-05-11 08:37:14,604 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:37:37,665 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:16,462 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:18,906 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:32,377 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:37,835 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:39,999 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:41,517 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:49,914 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:50:56,390 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:51:12,023 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:53:46,317 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:54:03,478 - INFO - Đã cập nhật config thành công!
+2025-05-11 08:54:04,592 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:02:38,166 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:08:08,271 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:10:53,845 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:10:54,677 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:11:27,662 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:11:32,714 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:32:37,035 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:34:15,384 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:34:25,296 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:39:50,872 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:40:06,642 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:40:11,439 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:40:16,629 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:40:46,328 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:40:59,309 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:41:09,629 - INFO - Đã cập nhật config thành công!
+2025-05-11 09:55:40,537 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:03:34,249 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:03:45,353 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:03:53,476 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:11:07,395 - ERROR - Lỗi getConfig: Recursive use of cursors not allowed.
+2025-05-11 10:15:41,756 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:15:56,054 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:16:02,875 - INFO - Đã cập nhật config thành công!
+2025-05-11 10:16:10,142 - INFO - Đã cập nhật config thành công!
+2025-05-11 11:35:47,640 - INFO - Đã cập nhật config thành công!
+2025-05-11 11:35:49,647 - INFO - Đã cập nhật config thành công!
+2025-05-11 11:36:04,905 - INFO - Đã cập nhật config thành công!
+2025-05-11 11:36:14,608 - INFO - Đã cập nhật config thành công!

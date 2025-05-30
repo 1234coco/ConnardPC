@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <!-- Tìm kiếm + List hiển thị ở trên -->
+    <SearchView
+        android:id="@+id/findGameID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="Nhập ID game" />
+
+    <ListView
+        android:id="@+id/listViewGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <!-- Nội dung cấu hình -->
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tên game"
+            android:id="@+id/gameNameConfig"
+            android:textSize="20sp"/>
+
+        <Spinner
+            android:id="@+id/chooseMode"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="25dp"/>
+    </LinearLayout>
+
+    <!-- Dùng layout_weight để phần main content chiếm chỗ còn lại -->
+    <LinearLayout
+        android:id="@+id/mainContent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#F0F0F0" /> <!-- Optional: thêm nền phân biệt -->
+
+    <!-- Nút ở cuối cùng -->
+    <Button
+        android:id="@+id/applyConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm game"
+        android:layout_marginBottom="10dp"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+2025-04-02 21:55:52,018 - INFO - \u0110� t\u1ea1o user M\u1eb9 M�y B�o
+2025-04-03 19:02:43,856 - INFO - Đã tạo user Mẹ Mày Béo
+2025-04-03 20:41:39,536 - INFO - Đã tạo setup mới
+2025-04-03 20:44:13,250 - ERROR - Bị lỗi:table USERS has 3 columns but 4 values were supplied
+2025-04-03 20:45:05,257 - INFO - Đã tạo setup mới
+2025-04-03 20:45:05,299 - INFO - Đã tạo user Mẹ Mày Béo
+2025-04-03 21:13:11,176 - ERROR - Bị lỗi:no such table: myTbl
+2025-04-03 21:13:25,260 - ERROR - Bị lỗi:Incorrect number of bindings supplied. The current statement uses 1, and there are 10 supplied.
+2025-04-03 21:16:16,909 - INFO - Tên Mẹ Mày Béo đã tồn tại trên hệ thống

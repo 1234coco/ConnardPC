@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Minecraft",
+        "file": [
+            "TL.exe"
+        ],
+        "path": [
+            "%AppData%/.tlauncher",
+            "%AppData%/.minecraft"
+        ],
+        "description": "Game kh\u1ed1i vu\u00f4ng"
+    },
+    {
+        "id": 2,
+        "name": "Osu!",
+        "file": [
+            "osu!.exe"
+        ],
+        "path": [
+            "%LOCALAPPDATA%/osu!",
+            ""
+        ],
+        "description": "K\u1ebb hu\u1ef7 di\u1ec7t b\u00e0n ph\u00edm"
+    },
+    {
+        "id": 3,
+        "name": "Riot",
+        "file": [
+            "RiotClientServices.exe"
+        ],
+        "path": [
+            "C:/Riot Games/Riot Client"
+        ],
+        "description": "\u0110\u1ec9nh cao c\u1ee7a s\u1ef1 cay c\u00fa"
+    },
+    {
+        "id": 4,
+        "name": "Steam",
+        "file": [
+            "steam.exe",
+            "steamwebhelper.exe"
+        ],
+        "path": [
+            "C:/Program Files (x86)/Steam"
+        ],
+        "description": "K\u1ebb b\u00e1n game m\u1ea1nh nh\u1ea5t l\u1ecbch s\u1eed"
+    },
+    {
+        "id": 5,
+        "name": "Miside",
+        "file": [
+            "MiSideFull.exe"
+        ],
+        "path": [],
+        "description": "Gojo 2.0"
+    },
+    {
+        "id": 6,
+        "name": "Roblox",
+        "file": [
+            "RobloxStudioInstaller.exe",
+            "RobloxPlayerLauncher.exe",
+            "RobloxPlayerInstaller.exe",
+            "RobloxPlayerBeta.exe"
+        ],
+        "path": [
+            "C:/Program Files (x86)/Roblox"
+        ],
+        "description": "N\u01a1i th\u1ec3 hi\u1ec7n tr\u00ecnh hack"
+    }
+]

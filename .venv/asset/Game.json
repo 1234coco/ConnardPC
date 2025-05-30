@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Minecraft",
+        "file": [
+            "TL.exe"
+        ],
+        "path": [
+            "%AppData%\\.tlauncher",
+            "%AppData%\\.minecraft"
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/config_pages">
+
+        <!-- Bọc tất cả bên trong LinearLayout -->
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/chooseDevice">
+
+            </Spinner>
+
+            <!-- Button 1 + RecyclerView -->
+            <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/btnAllow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_up_arrow"
+                android:text="Allow Games" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvAllow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <!-- Button 2 + RecyclerView -->
+            <Button
+                android:id="@+id/btnPause"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_up_arrow"
+                android:text="Pause Games" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvPause"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <!-- Button 3 + RecyclerView -->
+            <Button
+                android:id="@+id/btnLimit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_up_arrow"
+                android:text="Limit Games" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvLimit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+    </ScrollView>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnEditConfig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_edit"
+        android:contentDescription="Thêm config"
+        app:backgroundTint="@color/teal_700"
+        android:elevation="8dp" />
+</RelativeLayout>

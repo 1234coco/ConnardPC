@@ -1,0 +1,23 @@
+{
+    "status": 0,  
+    "games": [
+      {
+        "id":1,
+        "mode":"pause",
+        "timeEnd":1743760800,
+        "running":false
+      },
+      {
+        "id":5,
+        "mode":"allow",
+        "running":false
+      },
+      {
+        "id":8,
+        "mode": "allow_limit",
+        "limit": 10,
+        "played": 0,
+        "running": false
+      }
+    ]
+  }
